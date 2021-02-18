@@ -1,0 +1,21 @@
+ 
+
+@import 'vars';
+
+
+@mixin circle($size, $color) {
+   width: $size;
+   height: $size;
+   background-color: $color;
+   border-radius: 50%;
+}
+
+a {
+   font-size: 2rem;
+}
+
+   
+
+
+
+      
